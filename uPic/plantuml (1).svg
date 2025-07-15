@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentStyleType="text/css" height="584px" preserveAspectRatio="none" style="width:467px;height:584px;background:#FFFFFF;" version="1.1" viewBox="0 0 467 584" width="467px" zoomAndPan="magnify"><defs/><g><rect fill="none" height="26.2969" id="_title" style="stroke:none;stroke-width:1.0;" width="108" x="172.8873" y="5"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="98" x="177.8873" y="22.9951">系统部署架构图</text><!--MD5=[6cfdc4deef8bf14af68371792da2145f]
+cluster huawei--><g id="cluster_huawei"><path d="M33.7709,65.0652 C37.8616,51.7127 47.3591,51.3425 55.8975,60.7392 C63.1616,46.3196 74.4243,47.4521 83.2105,59.1472 C88.4936,45.6324 100.4747,45.5852 107.8276,57.1126 C115.616,43.2969 126.1325,45.177 135.0483,55.8599 C144.7843,43.6097 153.6724,47.2855 160.8282,58.6738 C167.2007,47.3816 178.0698,47.9907 184.9214,58.1352 C196.826,45.4047 206.634,45.7298 214.6987,62.0686 C226.889,51.7178 237.1025,55.0619 243.2747,69.1155 C245.4288,68.0091 247.3746,68.8589 247.2117,71.5303 C258.6792,80.2653 257.9122,87.8171 244.9023,94.0409 C256.7381,101.2042 259.2665,111.2968 245.6641,119.2295 C258.3438,124.7815 260.4396,136.2605 248.7474,144.7564 C259.6918,151.9924 259.6083,162.6102 246.6913,167.7086 C256.6088,174.9178 260.1317,183.9627 247.3437,191.7871 C257.4266,197.1151 261.2011,207.1723 249.9496,214.9051 C263.0846,219.9178 262.2889,231.1042 251.7402,237.9566 C260.2356,247.7143 260.3663,255.2852 247.579,261.2391 C259.5081,269.1166 258.2309,278.9879 247.6131,286.8954 C259.4707,292.6231 260.3255,301.1015 249.381,308.6798 C262.2445,318.5663 260.7037,327.9747 246.0613,334.2966 C256.2768,341.4807 257.5445,350.9843 245.1424,357.2635 C257.4065,363.125 257.5909,371.6003 246.6173,379.036 C259.4611,395.0604 254.7938,403.875 236.2747,409.1155 C236.6276,408.9969 236.8344,409.1779 236.7687,409.5431 C229.7116,421.4956 220.2711,421.4407 211.2728,411.8391 C206.6174,424.5714 196.2696,426.9768 187.2857,416.2686 C179.7462,428.4708 169.6007,427.53 161.7826,416.5754 C154.0536,428.5064 142.881,429.1258 133.8759,418.1286 C125.7996,430.0313 115.4501,427.8827 109.0691,416.3353 C100.4348,428.7774 90.1719,429.7269 81.8846,415.9751 C73.3315,425.4579 64.6317,424.1594 59.5838,412.3106 C42.3624,424.4946 30.2983,423.5906 22.2747,402.1155 C23.3407,402.0694 23.735,402.6031 23.3372,403.6027 C11.9321,395.1959 11.74,386.9415 24.4555,379.6614 C13.1986,372.3544 11.8425,365.4629 23.6874,357.3601 C11.8201,348.7146 12.7077,339.9732 24.1767,331.7739 C13.0676,324.1904 10.7926,315.793 23.6027,307.6406 C11.8604,301.3221 10.993,293.9018 21.9196,285.8337 C10.2366,279.5837 8.3708,269.6244 18.4185,260.3848 C8.1536,253.9367 8.087,242.6122 19.5241,237.199 C9.4558,228.6454 7.2394,218.9864 21.0724,211.8953 C9.5947,205.8583 8.9738,198.3021 19.0694,190.2671 C6,181.6336 6.6895,172.3206 20.3688,165.0663 C11.2353,158.2518 10.5477,149.5168 21.7519,144.0401 C10.2931,135.0562 8.644,126.1708 22.4381,117.8486 C11.3016,110.3621 12.3927,103.0522 23.2839,96.4358 C11.3754,82.7338 9.2803,70.2487 29.2747,62.1155 C31.8888,61.1663 33.5937,62.2997 33.7709,65.0652 " fill="none" style="stroke:#181818;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="42" x="111.7747" y="80.1106">华为云</text></g><!--MD5=[dabdc4dbdaf2479d356c3cf777a3abb6]
+cluster aliyun--><g id="cluster_aliyun"><path d="M49.4794,471.0316 C55.9118,461.1435 63.8845,463.5141 68.8046,472.5741 C73.494,462.4132 79.4535,463.0478 86.72,469.8527 C92.6557,462.0334 99.1277,461.9997 104.5643,470.4017 C110.1005,462.2985 115.9574,461.8349 121.9526,469.9084 C126.7383,460.8748 135.547,461.8991 140.2469,470 C144.805,462.0276 151.9567,459.5528 158.178,468.2062 C163.3629,459.9503 172.421,458.4649 177.655,468.1528 C183.0414,458.1564 190.7892,458.7948 197.0402,467.2442 C201.9323,460.063 209.4136,460.0151 213.057,468.5193 C219.4556,457.7965 227.2385,459.8995 233.4322,468.7328 C238.9124,461.2758 246.7036,461.1328 252.0022,468.9535 C256.5324,461.7994 263.9972,462.7288 268.1277,469.419 C274.0626,460.3386 283.9677,460.0871 288.4228,470.9267 C297.7896,460.2539 307.83,465.9211 311.2747,477.1155 C313.0965,476.2985 315.0233,476.9786 314.6878,479.3937 C323.3954,484.8927 323.1666,491.7751 315.634,498.0958 C326.1658,501.7166 326.4955,511.014 318.6812,517.5138 C326.1064,523.8405 325.5912,532.8969 316.0972,536.9775 C325.571,549.1173 317.0285,559.8626 304.2747,561.1155 C305.3007,560.7082 305.8835,561.1795 305.9094,562.2339 C301.6976,570.6809 293.7706,572.5063 287.3746,564.7293 C282.6114,573.7681 275.5078,572.2718 270.7462,564.7278 C264.7705,572.3393 254.8166,572.7421 250.901,562.4451 C245.8691,570.7362 239.0306,572.8589 232.5279,564.0229 C226.8808,571.5131 219.9516,573.59 214.6373,563.6807 C210.8638,573.5024 202.747,573.8831 195.9894,567.0148 C189.0923,574.2047 182.567,574.0324 177.5356,564.9049 C173.2621,573.9648 167.3745,574.5268 161.162,566.7957 C154.3236,577.2958 146.5642,575.8384 140.4184,566.0863 C135.2385,573.4907 127.797,572.8581 124.0489,564.5908 C117.4108,571.6791 111.1699,571.9851 105.4658,563.478 C101.1287,572.0159 94.0834,572.346 88.3233,565.0153 C82.1915,572.6179 72.6403,571.1537 69.1801,561.9688 C55.5143,573.7759 46.6213,571.8694 41.2747,554.1155 C42.9845,553.0437 44.3322,553.1975 44.707,555.4812 C34.6506,551.9504 31.5831,543.9704 39.025,535.471 C31.2866,531.326 29.12,523.6231 37.1754,517.8228 C26.741,511.3069 27.2997,503.8177 37.8795,498.0502 C26.8999,484.8531 30.8164,472.7302 48.2747,470.1155 C49.129,469.7609 49.5793,470.1313 49.4794,471.0316 " fill="none" style="stroke:#181818;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="42" x="155.2747" y="488.1106">阿里云</text></g><!--MD5=[594e4223b186edeb99679eebeb199d87]
+entity oldSys--><g id="elem_oldSys"><rect fill="#E3F2FD" height="55.6094" rx="2.5" ry="2.5" style="stroke:#546E7A;stroke-width:0.5;" width="122" x="113.2747" y="89.1155"/><rect fill="#E3F2FD" height="10" style="stroke:#546E7A;stroke-width:0.5;" width="15" x="215.2747" y="94.1155"/><rect fill="#E3F2FD" height="2" style="stroke:#546E7A;stroke-width:0.5;" width="4" x="213.2747" y="96.1155"/><rect fill="#E3F2FD" height="2" style="stroke:#546E7A;stroke-width:0.5;" width="4" x="213.2747" y="100.1155"/><text fill="#0D47A1" font-family="sans-serif" font-size="11" font-style="italic" lengthAdjust="spacing" textLength="82" x="128.2747" y="119.3259">«Architecture»</text><text fill="#0D47A1" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="33" x="152.7747" y="132.1306">老系统</text></g><!--MD5=[7a7c6a753110d8f376179e4e4ca0d0f5]
+entity newSys--><g id="elem_newSys"><rect fill="#E3F2FD" height="55.6094" rx="2.5" ry="2.5" style="stroke:#546E7A;stroke-width:0.5;" width="122" x="30.2747" y="218.1155"/><rect fill="#E3F2FD" height="10" style="stroke:#546E7A;stroke-width:0.5;" width="15" x="132.2747" y="223.1155"/><rect fill="#E3F2FD" height="2" style="stroke:#546E7A;stroke-width:0.5;" width="4" x="130.2747" y="225.1155"/><rect fill="#E3F2FD" height="2" style="stroke:#546E7A;stroke-width:0.5;" width="4" x="130.2747" y="229.1155"/><text fill="#0D47A1" font-family="sans-serif" font-size="11" font-style="italic" lengthAdjust="spacing" textLength="82" x="45.2747" y="248.3259">«Architecture»</text><text fill="#0D47A1" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="33" x="69.7747" y="261.1306">新系统</text></g><!--MD5=[942ec9387d398c01ede32a241f44849c]
+entity oldDB--><g id="elem_oldDB"><path d="M187.7747,235.1155 C187.7747,225.1155 211.2747,225.1155 211.2747,225.1155 C211.2747,225.1155 234.7747,225.1155 234.7747,235.1155 L234.7747,256.9202 C234.7747,266.9202 211.2747,266.9202 211.2747,266.9202 C211.2747,266.9202 187.7747,266.9202 187.7747,256.9202 L187.7747,235.1155 " fill="#FFF8E1" style="stroke:#FF8F00;stroke-width:0.5;"/><path d="M187.7747,235.1155 C187.7747,245.1155 211.2747,245.1155 211.2747,245.1155 C211.2747,245.1155 234.7747,245.1155 234.7747,235.1155 " fill="none" style="stroke:#FF8F00;stroke-width:0.5;"/><text fill="#E65100" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="27" x="197.7747" y="259.3259">老DB</text></g><!--MD5=[a299bcd5e94e88d223fbbbec20ebb4a0]
+entity newDB--><g id="elem_newDB"><path d="M80.7747,369.1155 C80.7747,359.1155 104.2747,359.1155 104.2747,359.1155 C104.2747,359.1155 127.7747,359.1155 127.7747,369.1155 L127.7747,390.9202 C127.7747,400.9202 104.2747,400.9202 104.2747,400.9202 C104.2747,400.9202 80.7747,400.9202 80.7747,390.9202 L80.7747,369.1155 " fill="#FFF8E1" style="stroke:#FF8F00;stroke-width:0.5;"/><path d="M80.7747,369.1155 C80.7747,379.1155 104.2747,379.1155 104.2747,379.1155 C104.2747,379.1155 127.7747,379.1155 127.7747,369.1155 " fill="none" style="stroke:#FF8F00;stroke-width:0.5;"/><text fill="#E65100" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="27" x="90.7747" y="393.3259">新DB</text></g><!--MD5=[021f16970fc81ca61b35edcbaa58b623]
+entity xmBigData--><g id="elem_xmBigData"><rect fill="#E8F5E9" height="55.6094" rx="2.5" ry="2.5" style="stroke:#546E7A;stroke-width:0.5;" width="109" x="193.7747" y="497.1155"/><rect fill="#E8F5E9" height="10" style="stroke:#546E7A;stroke-width:0.5;" width="15" x="282.7747" y="502.1155"/><rect fill="#E8F5E9" height="2" style="stroke:#546E7A;stroke-width:0.5;" width="4" x="280.7747" y="504.1155"/><rect fill="#E8F5E9" height="2" style="stroke:#546E7A;stroke-width:0.5;" width="4" x="280.7747" y="508.1155"/><text fill="#2E7D32" font-family="sans-serif" font-size="11" font-style="italic" lengthAdjust="spacing" textLength="69" x="208.7747" y="527.3259">«大数据平台»</text><text fill="#2E7D32" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="22" x="232.2747" y="540.1306">喜马</text></g><!--MD5=[3fa10d7d4d56393a889fbae85fcd566d]
+entity xlyBigData--><g id="elem_xlyBigData"><rect fill="#E8F5E9" height="55.6094" rx="2.5" ry="2.5" style="stroke:#546E7A;stroke-width:0.5;" width="109" x="49.7747" y="497.1155"/><rect fill="#E8F5E9" height="10" style="stroke:#546E7A;stroke-width:0.5;" width="15" x="138.7747" y="502.1155"/><rect fill="#E8F5E9" height="2" style="stroke:#546E7A;stroke-width:0.5;" width="4" x="136.7747" y="504.1155"/><rect fill="#E8F5E9" height="2" style="stroke:#546E7A;stroke-width:0.5;" width="4" x="136.7747" y="508.1155"/><text fill="#2E7D32" font-family="sans-serif" font-size="11" font-style="italic" lengthAdjust="spacing" textLength="69" x="64.7747" y="527.3259">«大数据平台»</text><text fill="#2E7D32" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="33" x="82.7747" y="540.1306">训练营</text></g><g id="elem_GMN119"><path d="M269.7747,223.6155 L269.7747,242.1155 L235.0347,246.1155 L269.7747,250.1155 L269.7747,268.5374 A0,0 0 0 0 269.7747,268.5374 L460.7747,268.5374 A0,0 0 0 0 460.7747,268.5374 L460.7747,233.6155 L450.7747,223.6155 L269.7747,223.6155 A0,0 0 0 0 269.7747,223.6155 " fill="#E0F7FA" style="stroke:#181818;stroke-width:0.5;"/><path d="M450.7747,223.6155 L450.7747,233.6155 L460.7747,233.6155 L450.7747,223.6155 " fill="#E0F7FA" style="stroke:#181818;stroke-width:0.5;"/><text fill="#006064" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="60" x="275.7747" y="237.8977">关键切换点：</text><text fill="#006064" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="70" x="275.7747" y="249.5384">执行系统切换后</text><text fill="#006064" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="170" x="275.7747" y="261.179">停止同步并迁移静态数据，换绑公众号</text></g><!--MD5=[1d677b62bd3a0daf18a379215f9dfa3f]
+link oldSys to oldDB--><g id="link_oldSys_oldDB"><path d="M182.2147,145.3555 C188.6647,167.4955 197.6847,198.4555 203.9547,219.9955 " fill="none" id="oldSys-to-oldDB" style="stroke:#607D8B;stroke-width:1.0;"/><polygon fill="#607D8B" points="205.4147,224.9855,206.7347,215.2255,204.0147,220.1855,199.0547,217.4655,205.4147,224.9855" style="stroke:#607D8B;stroke-width:1.0;"/><text fill="#455A64" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="20" x="194.2747" y="185.3977">读写</text></g><!--MD5=[92f5945eec166fa122f224efb5bcdf2f]
+link oldDB to xmBigData--><g id="link_oldDB_xmBigData"><path d="M217.4047,267.2555 C220.4947,278.0855 224.0447,291.7255 226.2747,304.1155 C238.1947,370.1855 244.0947,448.6555 246.6347,491.7555 " fill="none" id="oldDB-to-xmBigData" style="stroke:#607D8B;stroke-width:1.0;"/><polygon fill="#607D8B" points="246.9347,496.8255,250.4147,487.612,246.6494,491.8336,242.4277,488.0684,246.9347,496.8255" style="stroke:#607D8B;stroke-width:1.0;"/><text fill="#455A64" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="40" x="242.2747" y="383.8977">数据同步</text></g><!--MD5=[b311d284b439be50cb568f7ef803e797]
+link oldDB to newDB--><g id="link_oldDB_newDB"><path d="M187.5247,266.6155 C175.6047,277.0555 161.3647,290.5355 150.2747,304.1155 C137.4947,319.7655 125.6347,339.2755 117.1647,354.4755 " fill="none" id="oldDB-to-newDB" style="stroke:#607D8B;stroke-width:1.0;"/><polygon fill="#607D8B" points="114.6447,359.0455,122.4972,353.101,117.0619,354.6687,115.4943,349.2334,114.6447,359.0455" style="stroke:#607D8B;stroke-width:1.0;"/><text fill="#455A64" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="40" x="166.2747" y="314.3977">实时同步</text><text fill="#455A64" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="70" x="151.2747" y="326.0384">（切换前持续）</text></g><!--MD5=[2d131ecab080ba747b2b391e928c4652]
+link newSys to newDB--><g id="link_newSys_newDB"><path d="M87.6947,274.2255 C86.2247,290.2755 85.4447,310.9555 88.2747,329.1155 C89.5747,337.4655 92.0347,346.3355 94.6447,354.2355 " fill="none" id="newSys-to-newDB" style="stroke:#607D8B;stroke-width:1.0;"/><polygon fill="#607D8B" points="96.2747,359.0255,97.1524,349.2158,94.6593,354.2936,89.5815,351.8005,96.2747,359.0255" style="stroke:#607D8B;stroke-width:1.0;"/><text fill="#455A64" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="20" x="89.2747" y="320.3977">读写</text></g><!--MD5=[656d4bee677020ef88c3103fb79ccfb7]
+link newDB to xlyBigData--><g id="link_newDB_xlyBigData"><path d="M104.2747,401.3055 C104.2747,424.8555 104.2747,464.1155 104.2747,491.8955 " fill="none" id="newDB-to-xlyBigData" style="stroke:#607D8B;stroke-width:1.0;"/><polygon fill="#607D8B" points="104.2747,496.9455,108.2747,487.9455,104.2747,491.9455,100.2747,487.9455,104.2747,496.9455" style="stroke:#607D8B;stroke-width:1.0;"/><text fill="#455A64" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="40" x="105.2747" y="443.3977">数据同步</text></g><!--MD5=[613bc6ffadeaa3004bdc4f086a63e8c0]
+@startuml
+title 系统部署架构图
+
+' 样式配置
+skinparam monochrome false
+
+
+' 通用样式
+skinparam node {
+  BorderColor #546E7A
+  FontSize 12
+}
+skinparam component {
+  BorderColor #546E7A
+  FontSize 11
+}
+skinparam database {
+  BackgroundColor #FFF8E1
+  BorderColor #FF8F00
+  FontColor #E65100
+  FontSize 11
+}
+skinparam arrow {
+  Color #607D8B
+  FontColor #455A64
+  FontSize 10
+}
+skinparam note {
+  BackgroundColor #E0F7FA
+  BorderColor #00ACC1
+  FontColor #006064
+  FontSize 10
+}
+
+' 系统颜色区分
+skinparam component {
+  ' 系统样式
+  BackgroundColor<<Architecture>> #E3F2FD
+  FontColor<<Architecture>> #0D47A1
+  
+  ' 大数据平台样式
+  BackgroundColor<<大数据平台>> #E8F5E9
+  FontColor<<大数据平台>> #2E7D32
+}
+
+' 华为云节点
+cloud "华为云" as huawei {
+  [老系统] as oldSys <<Architecture>>
+  [新系统] as newSys <<Architecture>>
+  database "老DB" as oldDB
+  database "新DB" as newDB
+}
+
+' 阿里云节点
+cloud "阿里云" as aliyun {
+  [喜马] as xmBigData <<大数据平台>>
+  [训练营] as xlyBigData <<大数据平台>>
+}
+
+' 连接线与关系
+oldSys - -> oldDB : 读写
+oldDB - -> xmBigData : 数据同步
+oldDB - -> newDB : 实时同步\n（切换前持续）
+newSys - -> newDB : 读写
+newDB - -> xlyBigData : 数据同步 
+
+' 关键说明
+note right of oldDB
+  关键切换点：
+  执行系统切换后
+  停止同步并迁移静态数据，换绑公众号
+end note
+@enduml
+
+@startuml
+title 系统部署架构图
+
+skinparam monochrome false
+
+
+skinparam node {
+  BorderColor #546E7A
+  FontSize 12
+}
+skinparam component {
+  BorderColor #546E7A
+  FontSize 11
+}
+skinparam database {
+  BackgroundColor #FFF8E1
+  BorderColor #FF8F00
+  FontColor #E65100
+  FontSize 11
+}
+skinparam arrow {
+  Color #607D8B
+  FontColor #455A64
+  FontSize 10
+}
+skinparam note {
+  BackgroundColor #E0F7FA
+  BorderColor #00ACC1
+  FontColor #006064
+  FontSize 10
+}
+
+skinparam component {
+  BackgroundColor<<Architecture>> #E3F2FD
+  FontColor<<Architecture>> #0D47A1
+  
+  BackgroundColor<<大数据平台>> #E8F5E9
+  FontColor<<大数据平台>> #2E7D32
+}
+
+cloud "华为云" as huawei {
+  [老系统] as oldSys <<Architecture>>
+  [新系统] as newSys <<Architecture>>
+  database "老DB" as oldDB
+  database "新DB" as newDB
+}
+
+cloud "阿里云" as aliyun {
+  [喜马] as xmBigData <<大数据平台>>
+  [训练营] as xlyBigData <<大数据平台>>
+}
+
+oldSys - -> oldDB : 读写
+oldDB - -> xmBigData : 数据同步
+oldDB - -> newDB : 实时同步\n（切换前持续）
+newSys - -> newDB : 读写
+newDB - -> xlyBigData : 数据同步 
+
+note right of oldDB
+  关键切换点：
+  执行系统切换后
+  停止同步并迁移静态数据，换绑公众号
+end note
+@enduml
+
+PlantUML version 1.2022.7(Mon Aug 22 17:01:30 UTC 2022)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Default Encoding: UTF-8
+Language: en
+Country: null
+--></g></svg>
