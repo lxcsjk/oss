@@ -1,0 +1,6 @@
+{
+	"isSuccess":false,
+	"status":200,
+	"errorCode":"003",
+	"errorMsg":"S_ONEPARTY_RemoteServiceError"
+}
